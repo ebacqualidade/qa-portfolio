@@ -1,12 +1,12 @@
 # Portfólio de Engenharia de Qualidade
 
-Este repositório reúne meus projetos práticos em Engenharia de Qualidade de Software, organizados para apresentar minhas evolução no aprendizado de testes, automação, DevOps e qualidade de forma clara e objetiva. 
+Este repositório reúne meus projetos práticos em Engenharia de Qualidade de Software, organizados para apresentar minha evolução no aprendizado de testes, automação, DevOps e qualidade de forma clara e objetiva. 
 
 Aqui estão concentrados trabalhos que envolvem automação web, testes de API, testes de unidade, performance e integração contínua, sempre baseados em cenários próximos à realidade de aplicações de mercado.
 
 ## Objetivo do portfólio
 
-- demonstrar minhas experiência prática em qualidade de software
+- demonstrar minha experiência prática em qualidade de software
 - apresentar projetos desenvolvidos ao longo dos meus estudos  
 - mostrar a aplicação de boas práticas de testes, automação e organização  
 - evidenciar minha capacidade de analisar contexto, definir estratégia e tomar decisões técnicas
